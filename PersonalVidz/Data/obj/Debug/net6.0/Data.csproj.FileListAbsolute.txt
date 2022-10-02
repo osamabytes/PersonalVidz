@@ -13,3 +13,5 @@ C:\Users\osama\Documents\Github\PersonalVidz\PersonalVidz\Data\obj\Debug\net6.0\
 C:\Users\osama\Documents\Github\PersonalVidz\PersonalVidz\Data\obj\Debug\net6.0\refint\Data.dll
 C:\Users\osama\Documents\Github\PersonalVidz\PersonalVidz\Data\obj\Debug\net6.0\Data.pdb
 C:\Users\osama\Documents\Github\PersonalVidz\PersonalVidz\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\osama\Documents\Github\PersonalVidz\PersonalVidz\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\osama\Documents\Github\PersonalVidz\PersonalVidz\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
